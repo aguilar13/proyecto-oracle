@@ -5,4 +5,5 @@
 <!-- -->
 ###Que es Scrum
 Aqui vas a escribir que es scrum
+
 ![Esta es una imagen](http://www.oracle.com/us/oracle-social-share-fb-480-2516041.jpg)
